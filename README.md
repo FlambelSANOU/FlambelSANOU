@@ -126,3 +126,8 @@
 <a href="https://dribbble.com/https://flambel-sanou.yaba-in.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://flambel-sanou.yaba-in.com/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@flambelsanou4991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@flambelsanou4991" height="30" width="40" /></a>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
