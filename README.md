@@ -89,6 +89,12 @@
 
 ###
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 ###
 <h3 align="justify">I am Flambel SANOU, a versatile professional with expertise in software development, UI/UX design, and the integration of cutting-edge technological solutions. I'm specialise in delivering high-quality learning management systems, web and mobile applications, and AR/VR solutions. With a strong background in project management, technical mentoring, and I am an academic instructor at the University of the Mountains in West Cameroon. I have successfully collaborated with diverse teams to create intuitive and user-centric digital experiences. My passion lies in leveraging innovation to drive impactful solutions for clients and communities.</h3>
 
