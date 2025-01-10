@@ -92,9 +92,9 @@
 ###
 <h3 align="justify">I am Flambel SANOU, a versatile professional with expertise in software development, UI/UX design, and the integration of cutting-edge technological solutions. As the CEO of Yaba-In, I specialize in delivering high-quality learning management systems, web and mobile applications, and AR/VR solutions. With a strong background in project management, technical mentoring, and academic instruction, I have successfully collaborated with diverse teams to create intuitive and user-centric digital experiences. My passion lies in leveraging innovation to drive impactful solutions for clients and communities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flambelsanou&label=Profile%20views&color=0e75b6&style=flat" alt="flambelsanou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dassiorleando&label=Profile%20views&color=0e75b6&style=flat" alt="dassiorleando" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flambelsanou" alt="flambelsanou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dassiorleando" alt="dassiorleando" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/flambelsanou" target="blank"><img src="https://img.shields.io/twitter/follow/flambelsanou?logo=twitter&style=for-the-badge" alt="flambelsanou" /></a> </p>
 
@@ -128,4 +128,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flambelsanou&" alt="flambelsanou" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flambelsanou&show_icons=true&locale=en&layout=compact" alt="flambelsanou" /></p>
-
