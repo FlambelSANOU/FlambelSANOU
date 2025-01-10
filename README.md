@@ -106,9 +106,9 @@
 
 - 📝 I regularly write articles on [https://cm.linkedin.com/in/flambel-junior-sanou-ku%C3%A9-852703175](https://cm.linkedin.com/in/flambel-junior-sanou-ku%C3%A9-852703175)
 
-- 💬 Ask me about **Angular, Ionic, Firebase, UI/UX Design**
+- 💬 Ask me about **Angular, Ionic, Firebase and UI/UX Design**
 
-- 📫 How to reach me **contact@yaba-in.com**
+- 📫 To reach me, use **contact@yaba-in.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
