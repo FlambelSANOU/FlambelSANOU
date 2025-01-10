@@ -116,6 +116,10 @@
 
 - 📫 To reach me, use **contact@yaba-in.com**
 
+
+<img src="github_snake.gif" alt="Snake animation" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/flambelsanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flambelsanou" height="30" width="40" /></a>
@@ -128,6 +132,5 @@
 </p>
 
 
-<img src="github_snake.gif" alt="Snake animation" />
 
 ###
