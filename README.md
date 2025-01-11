@@ -90,7 +90,7 @@
 ###
 ###
 <div align="center">
-  <img src=".github/Screen1.png" height="150" alt="stats graph"  />
+  <img src=".github/Screen00.png" height="150" alt="stats graph"  />
   <img src=".github/Screen2.png" height="150" alt="languages graph"  />
 </div>
 
