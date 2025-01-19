@@ -98,11 +98,11 @@
 ###
 <h3 align="justify">I am Flambel SANOU, a versatile professional with expertise in software development, UI/UX design, and the integration of cutting-edge technological solutions. I'm specialise in delivering high-quality learning management systems, web and mobile applications, and AR/VR solutions. With a strong background in project management, technical mentoring, and I am an academic instructor at the University of the Mountains in West Cameroon. I have successfully collaborated with diverse teams to create intuitive and user-centric digital experiences. My passion lies in leveraging innovation to drive impactful solutions for clients and communities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dassiorleando&label=Profile%20views&color=0e75b6&style=flat" alt="dassiorleando" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dassiorleando&label=Profile%20views&color=0e75b6&style=flat" alt="FlambelSANOU" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dassiorleando" alt="dassiorleando" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dassiorleando" alt="FlambelSANOU" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/flambelsanou" target="blank"><img src="https://img.shields.io/twitter/follow/flambelsanou?logo=twitter&style=for-the-badge" alt="flambelsanou" /></a> </p>
+<p align="left"> <a href="https://twitter.com/flambelsanou" target="blank"><img src="https://img.shields.io/twitter/follow/flambelsanou?logo=twitter&style=for-the-badge" alt="FlambelSANOU" /></a> </p>
 
 - 🔭 I’m currently working on [Yabi Events](https://yabi.cm)
 
