@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img height="" src="./.github/yava-in_cover.png" />
+  <img height="" src="./.github/yaba-in_cover.png" />
 </div>
 
 
