@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img height="" src="https://drive.google.com/drive-viewer/AKGpihYPox-QIEpP7ztE7g_kB1QSWnn1fNdEETg4wAsKS1Noo7Df8DlPjAh-FGt4fcnTo09MQFiSdHJ26z58tsXXbHhgZK0iaEk0xw=s1600-rw-v1" />
+  <img height="" src="./.github/yava-in_cover.png" />
 </div>
 
 
