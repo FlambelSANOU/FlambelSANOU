@@ -96,7 +96,7 @@
 
 ###
 ###
-<h3 align="justify">I am Flambel SANOU, a versatile professional with expertise in software development, UI/UX design, and the integration of cutting-edge technological solutions. I'm specialise in delivering high-quality learning management systems, web and mobile applications, and AR/VR solutions. With a strong background in project management, technical mentoring, and I am an academic instructor at the University of the Mountains in West Cameroon. I have successfully collaborated with diverse teams to create intuitive and user-centric digital experiences. My passion lies in leveraging innovation to drive impactful solutions for clients and communities.</h3>
+<h3 align="justify">I am Flambel SANOU, a versatile professional with expertise in software development, UI/UX design, and the integration of cutting-edge technological solutions. I'm specialise in delivering high-quality learning management systems, web and mobile applications. With a strong background in project management, technical mentoring, and I am an academic instructor at the University of the Mountains in West Cameroon. I have successfully collaborated with diverse teams to create intuitive and user-centric digital experiences. My passion lies in leveraging innovation to drive impactful solutions for clients and communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dassiorleando&label=Profile%20views&color=0e75b6&style=flat" alt="FlambelSANOU" /> </p>
 
